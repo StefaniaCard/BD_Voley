@@ -1,0 +1,7 @@
+{
+  "_id": ObjectId("..."),
+  "nombre": "Juan Pérez",
+  "equipo_id": ObjectId("..."),
+  "posicion": "Centrales",
+  "numero_camiseta": 10
+}
