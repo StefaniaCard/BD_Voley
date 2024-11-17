@@ -1,3 +1,7 @@
+#! Crear base de datos
+use torneo_voleibol
+
+#! Crear colecciones
 db.createCollection("jugadores")
 db.createCollection("entrenadores")
 db.createCollection("arbitros")
