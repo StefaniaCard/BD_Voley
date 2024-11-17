@@ -1,0 +1,7 @@
+{
+  "_id": ObjectId("..."),
+  "equipo_id": ObjectId("..."),
+  "victorias": 5,
+  "derrotas": 3,
+  "puntos_totales": 15
+}
