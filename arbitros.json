@@ -1,0 +1,6 @@
+{
+  "_id": ObjectId("..."),
+  "nombre": "Carlos Méndez",
+  "torneo_id": ObjectId("..."),
+  "tipo": "Principal"
+}
