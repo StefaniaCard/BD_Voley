@@ -1,5 +1,5 @@
 #! Crear base de datos
-use torneo_voleibol
+use TorneoDeportivo
 
 #! Crear colecciones
 db.createCollection("jugadores")
