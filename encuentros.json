@@ -1,0 +1,8 @@
+{
+  "_id": ObjectId("..."),
+  "fecha": "2024-11-20T18:00:00Z",
+  "equipo_local_id": ObjectId("..."),
+  "equipo_visitante_id": ObjectId("..."),
+  "arbitro_id": ObjectId("..."),
+  "resultado": { "equipo_local": 3, "equipo_visitante": 1 }
+}
