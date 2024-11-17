@@ -1,0 +1,7 @@
+{
+  "_id": ObjectId("..."),
+  "encuentro_id": ObjectId("..."),
+  "sets": [
+    { "set_numero": 1, "puntos_local": 25, "puntos_visitante": 18 }
+  ]
+}
